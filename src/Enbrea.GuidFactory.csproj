@@ -6,13 +6,14 @@
     <Authors>STÜBER SYSTEMS GmbH</Authors>
     <Company>STÜBER SYSTEMS GmbH</Company>
     <Copyright>© 2020 STÜBER SYSTEMS GmbH</Copyright>
+    <Product>ENBREA GUID-FACTORY</Product>
     <Description>Factory class for generating deterministic GUIDs</Description>
-    <Product>ENBREA GUID FACTORY</Product>
     <PackageLicenseUrl></PackageLicenseUrl>
     <RepositoryType />
     <NeutralLanguage></NeutralLanguage>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/stuebersystems/enbrea.guidfactory</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

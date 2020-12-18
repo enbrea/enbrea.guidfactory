@@ -1,4 +1,7 @@
-# ENBREA GUID FACTORY
+[![NuGet Gallery](https://img.shields.io/badge/NuGet%20Gallery-enbrea.guidfactory-blue.svg)](https://www.nuget.org/packages/Enbrea.GuidFactory/)
+![GitHub](https://img.shields.io/github/license/stuebersystems/enbrea.guidfactory)
+
+# ENBREA GUID.FACTORY
 
 This .NET Core library provides a factory class for generating deterministic GUID values. See [RFC 4122](https://www.ietf.org/rfc/rfc4122.txt) for algorithm details. This library is based on existing code from the following [blog article](https://faithlife.codes/blog/2011/04/generating_a_deterministic_guid/).
 
@@ -8,7 +11,7 @@ This .NET Core library provides a factory class for generating deterministic GUI
 dotnet add package Enbrea.GuidFactory
 ```
 
-### Example
+## Example
 
 ``` csharp
 Guid guid = GuidFactory.Create(GuidFactory.DnsNamespace, "guid.enbrea.org");

@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{63884AE7-5BB9-483D-BD78-FB12AD9D0AB7}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enbrea.GuidFactory", "src\Enbrea.GuidFactory.csproj", "{7227AA4A-9680-4177-BDD1-C8794F2647AD}"
 EndProject
 Global
@@ -20,9 +18,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{7227AA4A-9680-4177-BDD1-C8794F2647AD} = {63884AE7-5BB9-483D-BD78-FB12AD9D0AB7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EBA4C33-E96F-454E-BE61-52EB141DB4AB}
