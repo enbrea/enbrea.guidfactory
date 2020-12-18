@@ -1,6 +1,6 @@
-﻿#region ENBREA GUID FACTORY - Copyright (C) 2020 STÜBER SYSTEMS GmbH
+﻿#region ENBREA GUID-FACTORY - Copyright (C) 2020 STÜBER SYSTEMS GmbH
 /*    
- *    ENBREA GUID FACTORY
+ *    ENBREA GUID-FACTORY
  *    
  *    Copyright (C) 2020 STÜBER SYSTEMS GmbH
  *
