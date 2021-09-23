@@ -1,8 +1,8 @@
-﻿#region ENBREA GUID-FACTORY - Copyright (C) 2020 STÜBER SYSTEMS GmbH
+﻿#region ENBREA GUID.FACTORY - Copyright (C) 2021 STÜBER SYSTEMS GmbH
 /*    
- *    ENBREA GUID-FACTORY
+ *    ENBREA GUID.FACTORY
  *    
- *    Copyright (C) 2020 STÜBER SYSTEMS GmbH
+ *    Copyright (C) 2021 STÜBER SYSTEMS GmbH
  *
  *    Licensed under the MIT License, Version 2.0. 
  * 
@@ -21,7 +21,7 @@ namespace Enbrea.GuidFactory
     /// <remarks>
     /// This library is based on existing code from the following blog article <a href="https://faithlife.codes/blog/2011/04/generating_a_deterministic_guid/">Generating a deterministic GUID</a>.
     /// </remarks>
-    public static class GuidFactory
+    public static class GuidGenerator
     {
         /// <summary>
         /// The namespace for fully-qualified domain names (from RFC 4122, Appendix C).
