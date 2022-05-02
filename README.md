@@ -17,7 +17,7 @@ dotnet add package Enbrea.GuidFactory
 ## Example
 
 ``` csharp
-Guid guid = GuidGenerator.Create(GuidFactory.DnsNamespace, "www.enbrea.org");
+Guid guid = GuidGenerator.Create(GuidGenerator.DnsNamespace, "www.enbrea.org");
 ```
 
 ## Can I help?
