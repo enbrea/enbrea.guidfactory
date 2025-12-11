@@ -5,7 +5,7 @@
 
 A .NET library for for generating deterministic GUID values. See [RFC 4122](https://www.ietf.org/rfc/rfc4122.txt) for algorithm details. 
 
-+ Supports .NET 6, .NET 8 and .NET 9
++ Supports .NET 10, .NET 9 and .NET 8-
 + This library is based on existing code from the following [blog article](https://faithlife.codes/blog/2011/04/generating_a_deterministic_guid/).
 
 ## Installation

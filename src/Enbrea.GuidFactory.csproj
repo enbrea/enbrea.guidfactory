@@ -1,22 +1,21 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net6.0;net8.0;net9.0</TargetFrameworks>
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Authors>STÜBER SYSTEMS GmbH</Authors>
-    <Company>STÜBER SYSTEMS GmbH</Company>
-    <Copyright>© 2023 STÜBER SYSTEMS GmbH</Copyright>
+    <TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
     <Product>ENBREA GUID FACTORY</Product>
     <Description>Factory class for generating deterministic GUIDs</Description>
-    <PackageLicenseUrl></PackageLicenseUrl>
+    <Authors>STÜBER SYSTEMS GmbH</Authors>
+    <Company>STÜBER SYSTEMS GmbH</Company>
+    <Copyright>© 2025 STÜBER SYSTEMS GmbH</Copyright>
     <RepositoryType>git</RepositoryType>
-    <NeutralLanguage></NeutralLanguage>
-    <Version>0.9.0</Version>
+    <LangVersion>latest</LangVersion>
+    <Version>0.11.0</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/stuebersystems/enbrea.guidfactory</RepositoryUrl>
-    <PackageTags>enbrea;guid</PackageTags>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/enbrea/enbrea.guidfactory</RepositoryUrl>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageTags>enbrea;guid</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

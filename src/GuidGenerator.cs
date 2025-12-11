@@ -1,8 +1,8 @@
-﻿#region ENBREA GUID.FACTORY - Copyright (C) 2023 STÜBER SYSTEMS GmbH
+﻿#region Enbrea.GuidFactory - Copyright (C) STÜBER SYSTEMS GmbH
 /*    
- *    ENBREA GUID.FACTORY
+ *    Enbrea.GuidFactory
  *    
- *    Copyright (C) 2023 STÜBER SYSTEMS GmbH
+ *    Copyright (C) STÜBER SYSTEMS GmbH
  *
  *    Licensed under the MIT License, Version 2.0. 
  * 
